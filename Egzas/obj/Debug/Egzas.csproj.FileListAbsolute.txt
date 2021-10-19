@@ -1,0 +1,7 @@
+D:\Egzas\Egzas\Egzas\bin\Debug\Egzas.exe.config
+D:\Egzas\Egzas\Egzas\bin\Debug\Egzas.exe
+D:\Egzas\Egzas\Egzas\bin\Debug\Egzas.pdb
+D:\Egzas\Egzas\Egzas\obj\Debug\Egzas.csprojAssemblyReference.cache
+D:\Egzas\Egzas\Egzas\obj\Debug\Egzas.csproj.CoreCompileInputs.cache
+D:\Egzas\Egzas\Egzas\obj\Debug\Egzas.exe
+D:\Egzas\Egzas\Egzas\obj\Debug\Egzas.pdb
